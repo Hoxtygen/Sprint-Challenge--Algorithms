@@ -16,3 +16,5 @@ def count_th(word):
 
 
 print(count_th("abcthefthghith"))
+print(count_th("abcthxyz"))
+print(count_th("abcthxyz"))
