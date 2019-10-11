@@ -3,12 +3,13 @@
 ## Exercise I
 
 a)
-
+O(n)
 
 b)
-
+O(n2)
 
 c)
+O(n)
 
 ## Exercise II
 
